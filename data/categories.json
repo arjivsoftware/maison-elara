@@ -1,0 +1,156 @@
+[
+    {
+        "id": "cat_1722000000101",
+        "slug": "tote-bags",
+        "name": "Tote Bags",
+        "description": "Structured and unstructured totes crafted for the woman who carries her world beautifully.",
+        "image": "public/uploads/categories/tote-bags.webp",
+        "accentColor": "#C9956B",
+        "showInNav": true,
+        "featured": true,
+        "sortOrder": 1,
+        "seo": {
+            "metaTitle": "Luxury Tote Bags — Maison Elara",
+            "metaDescription": "Shop our collection of handcrafted luxury tote bags in Italian leather, vegetable-tanned leather, and more. Timeless, structured, sophisticated.",
+            "keywords": [
+                "luxury tote bags",
+                "leather tote India",
+                "designer tote bags"
+            ]
+        },
+        "createdAt": "2026-01-01T00:00:00.000Z",
+        "updatedAt": "2026-08-01T00:00:00.000Z"
+    },
+    {
+        "id": "cat_1722000000102",
+        "slug": "crossbody-bags",
+        "name": "Crossbody Bags",
+        "description": "Sculptural crossbody designs that move with you — from morning coffee to midnight soirées.",
+        "image": "public/uploads/categories/crossbody-bags.webp",
+        "accentColor": "#1B2A4A",
+        "showInNav": true,
+        "featured": true,
+        "sortOrder": 2,
+        "seo": {
+            "metaTitle": "Luxury Crossbody Bags — Maison Elara",
+            "metaDescription": "Discover our sculptural crossbody bags. Chain straps, pebbled leather, and evening-ready silhouettes.",
+            "keywords": [
+                "crossbody luxury bag",
+                "chain bag India",
+                "designer crossbody"
+            ]
+        },
+        "createdAt": "2026-01-01T00:00:00.000Z",
+        "updatedAt": "2026-08-01T00:00:00.000Z"
+    },
+    {
+        "id": "cat_1722000000103",
+        "slug": "clutches",
+        "name": "Clutches",
+        "description": "Evening clutches and frame bags for when the occasion demands something unforgettable.",
+        "image": "public/uploads/categories/clutches.webp",
+        "accentColor": "#C9A84C",
+        "showInNav": true,
+        "featured": true,
+        "sortOrder": 3,
+        "seo": {
+            "metaTitle": "Luxury Evening Clutches — Maison Elara",
+            "metaDescription": "Hand-beaded and silk satin evening clutches crafted in Surat. Perfect for weddings, galas, and special occasions.",
+            "keywords": [
+                "luxury evening clutch",
+                "bridal clutch India",
+                "beaded clutch"
+            ]
+        },
+        "createdAt": "2026-01-01T00:00:00.000Z",
+        "updatedAt": "2026-08-01T00:00:00.000Z"
+    },
+    {
+        "id": "cat_1722000000104",
+        "slug": "shoulder-bags",
+        "name": "Shoulder Bags",
+        "description": "Hobo styles and relaxed shoulder silhouettes that carry quiet luxury effortlessly.",
+        "image": "public/uploads/categories/shoulder-bags.webp",
+        "accentColor": "#8A9E7E",
+        "showInNav": true,
+        "featured": false,
+        "sortOrder": 4,
+        "seo": {
+            "metaTitle": "Luxury Shoulder Bags — Maison Elara",
+            "metaDescription": "Slouch hobos and shoulder bags in premium leather. Relaxed luxury for every day.",
+            "keywords": [
+                "shoulder bag luxury",
+                "hobo bag India",
+                "luxury shoulder bag"
+            ]
+        },
+        "createdAt": "2026-01-01T00:00:00.000Z",
+        "updatedAt": "2026-08-01T00:00:00.000Z"
+    },
+    {
+        "id": "cat_1722000000105",
+        "slug": "satchels",
+        "name": "Satchels",
+        "description": "Top-handle satchels engineered for the boardroom, designed for the gallery.",
+        "image": "public/uploads/categories/satchels.webp",
+        "accentColor": "#9A4A1A",
+        "showInNav": true,
+        "featured": false,
+        "sortOrder": 5,
+        "seo": {
+            "metaTitle": "Luxury Satchels & Work Bags — Maison Elara",
+            "metaDescription": "Structured top-handle satchels in calfskin and Italian leather. Built for the working woman.",
+            "keywords": [
+                "luxury satchel",
+                "work bag designer",
+                "top handle bag India"
+            ]
+        },
+        "createdAt": "2026-01-01T00:00:00.000Z",
+        "updatedAt": "2026-08-01T00:00:00.000Z"
+    },
+    {
+        "id": "cat_1722000000106",
+        "slug": "bucket-bags",
+        "name": "Bucket Bags",
+        "description": "Suede and leather bucket silhouettes — the cornerstone of quiet luxury dressing.",
+        "image": "public/uploads/categories/bucket-bags.webp",
+        "accentColor": "#8B6347",
+        "showInNav": true,
+        "featured": false,
+        "sortOrder": 6,
+        "seo": {
+            "metaTitle": "Luxury Bucket Bags — Maison Elara",
+            "metaDescription": "Suede and leather bucket bags with drawstring closures. The quiet luxury choice for everyday elegance.",
+            "keywords": [
+                "bucket bag luxury",
+                "suede bucket bag",
+                "drawstring bag India"
+            ]
+        },
+        "createdAt": "2026-01-01T00:00:00.000Z",
+        "updatedAt": "2026-08-01T00:00:00.000Z"
+    },
+    {
+        "id": "cat_1722000000107",
+        "slug": "pouches-wallets",
+        "name": "Pouches & Wallets",
+        "description": "Compact organisers and wristlets in nappa leather — perfect as gifts or everyday essentials.",
+        "image": "public/uploads/categories/pouches-wallets.webp",
+        "accentColor": "#4A2C1A",
+        "showInNav": false,
+        "featured": false,
+        "sortOrder": 7,
+        "seo": {
+            "metaTitle": "Leather Pouches & Wallets — Maison Elara",
+            "metaDescription": "Compact leather pouches, wristlets, and wallets. Thoughtful gifts in premium nappa leather.",
+            "keywords": [
+                "leather pouch",
+                "luxury wallet India",
+                "nappa wristlet"
+            ]
+        },
+        "createdAt": "2026-01-01T00:00:00.000Z",
+        "updatedAt": "2026-08-01T00:00:00.000Z"
+    }
+]

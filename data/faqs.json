@@ -1,0 +1,83 @@
+[
+    {
+        "id": "faq_1722000000401",
+        "question": "What leathers do you use and where are they sourced?",
+        "answer": "We use full-grain Italian vegetable-tanned leather, grained calfskin, soft pebbled leather, and premium suede across our collection. Our Italian leathers are sourced from tanneries in Tuscany that have been producing leather for over a century. All bags are handcrafted in India by our skilled artisans.",
+        "category": "products",
+        "sortOrder": 1,
+        "createdAt": "2026-01-01T00:00:00.000Z",
+        "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+        "id": "faq_1722000000402",
+        "question": "How do I place an order?",
+        "answer": "Every product page has a 'Enquire on WhatsApp' button. Tap it to start a conversation directly with our team. We'll confirm availability, answer your questions, and guide you through payment. We do not have an automated checkout — every order is personally handled.",
+        "category": "ordering",
+        "sortOrder": 2,
+        "createdAt": "2026-01-01T00:00:00.000Z",
+        "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+        "id": "faq_1722000000403",
+        "question": "What payment methods do you accept?",
+        "answer": "We accept UPI (GPay, PhonePe, Paytm), NEFT/IMPS bank transfer, and all major credit/debit cards via secure payment link. We do not accept Cash on Delivery for orders above ₹10,000. Full payment is required before dispatch.",
+        "category": "payment",
+        "sortOrder": 3,
+        "createdAt": "2026-01-01T00:00:00.000Z",
+        "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+        "id": "faq_1722000000404",
+        "question": "How long does delivery take?",
+        "answer": "We dispatch all orders within 2 business days. Delivery typically takes 3–5 business days across major Indian cities and 5–7 business days for other locations. All orders are shipped with tracking via premium courier partners.",
+        "category": "shipping",
+        "sortOrder": 4,
+        "createdAt": "2026-01-01T00:00:00.000Z",
+        "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+        "id": "faq_1722000000405",
+        "question": "Do you ship internationally?",
+        "answer": "Yes, we ship to UAE, UK, USA, Canada, Singapore, and Australia. International delivery takes 7–14 business days. Shipping costs and customs duties are borne by the customer. Please enquire on WhatsApp for international order pricing.",
+        "category": "shipping",
+        "sortOrder": 5,
+        "createdAt": "2026-01-01T00:00:00.000Z",
+        "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+        "id": "faq_1722000000406",
+        "question": "What is your return and exchange policy?",
+        "answer": "We accept returns within 7 days of delivery if the bag is unused, in original condition, with all tags and dustbag intact. Sale items and customised pieces are non-returnable. Exchanges are processed within 10 business days of receiving the returned piece.",
+        "category": "returns",
+        "sortOrder": 6,
+        "createdAt": "2026-01-01T00:00:00.000Z",
+        "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+        "id": "faq_1722000000407",
+        "question": "How do I care for my Maison Elara bag?",
+        "answer": "Leather bags should be stored in their dustbag away from direct sunlight. For cleaning, use a soft dry cloth. For conditioning, we recommend a quality leather conditioner every 3–6 months. Suede bags should be brushed with a suede brush and protected with a suede spray before first use. Avoid exposure to water and perfume.",
+        "category": "products",
+        "sortOrder": 7,
+        "createdAt": "2026-01-01T00:00:00.000Z",
+        "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+        "id": "faq_1722000000408",
+        "question": "Are your bags authentic and do they come with a warranty?",
+        "answer": "Every Maison Elara bag comes with an authenticity card, dustbag, and care booklet. We offer a 12-month craftsmanship warranty covering manufacturing defects. Hardware issues, lining tears, or stitching failures within 12 months of purchase are repaired or replaced at no charge.",
+        "category": "products",
+        "sortOrder": 8,
+        "createdAt": "2026-01-01T00:00:00.000Z",
+        "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+        "id": "faq_1722000000409",
+        "question": "Can I request a custom colour or personalisation?",
+        "answer": "Yes. We offer monogramming (initials, up to 3 letters) on select styles and can discuss custom colour options for orders of 3 or more pieces. Please enquire on WhatsApp for custom requests. Custom orders typically take 3–4 weeks.",
+        "category": "general",
+        "sortOrder": 9,
+        "createdAt": "2026-01-01T00:00:00.000Z",
+        "updatedAt": "2026-01-01T00:00:00.000Z"
+    }
+]

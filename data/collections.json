@@ -1,0 +1,70 @@
+[
+    {
+        "id": "col_1722000000001",
+        "slug": "signature-collection",
+        "name": "The Signature Collection",
+        "description": "Our most celebrated pieces — each one a study in form, material, and intention. The bags women reach for first, every time.",
+        "image": "public/uploads/collections/col_1722000000001.webp",
+        "productIds": [
+            "prod_1722000000001",
+            "prod_1722000000004",
+            "prod_1722000000002"
+        ],
+        "displayStyle": "featured",
+        "featured": true,
+        "sortOrder": 1,
+        "createdAt": "2026-01-01T00:00:00.000Z",
+        "updatedAt": "2026-08-01T00:00:00.000Z"
+    },
+    {
+        "id": "col_1722000000002",
+        "slug": "everyday-luxury",
+        "name": "Everyday Luxury",
+        "description": "Bags built for real life — structured enough for the office, relaxed enough for the weekend, beautiful enough for everywhere in between.",
+        "image": "public/uploads/collections/col_1722000000002.webp",
+        "productIds": [
+            "prod_1722000000001",
+            "prod_1722000000003",
+            "prod_1722000000006",
+            "prod_1722000000007"
+        ],
+        "displayStyle": "grid",
+        "featured": true,
+        "sortOrder": 2,
+        "createdAt": "2026-02-01T00:00:00.000Z",
+        "updatedAt": "2026-08-01T00:00:00.000Z"
+    },
+    {
+        "id": "col_1722000000003",
+        "slug": "evening-edit",
+        "name": "The Evening Edit",
+        "description": "When the sun goes down, these are the pieces that hold the light. Our clutches, chain bags, and sculptural eveningwear.",
+        "image": "public/uploads/collections/col_1722000000003.webp",
+        "productIds": [
+            "prod_1722000000005",
+            "prod_1722000000002",
+            "prod_1722000000008"
+        ],
+        "displayStyle": "carousel",
+        "featured": true,
+        "sortOrder": 3,
+        "createdAt": "2026-03-01T00:00:00.000Z",
+        "updatedAt": "2026-08-01T00:00:00.000Z"
+    },
+    {
+        "id": "col_1722000000004",
+        "slug": "the-atelier-edit",
+        "name": "The Atelier Edit",
+        "description": "Handcrafted pieces where artisanship is visible in every stitch and finish. For those who appreciate what goes into the making.",
+        "image": "public/uploads/collections/col_1722000000004.webp",
+        "productIds": [
+            "prod_1722000000004",
+            "prod_1722000000005"
+        ],
+        "displayStyle": "featured",
+        "featured": false,
+        "sortOrder": 4,
+        "createdAt": "2026-04-01T00:00:00.000Z",
+        "updatedAt": "2026-08-01T00:00:00.000Z"
+    }
+]

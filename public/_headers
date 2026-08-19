@@ -1,0 +1,15 @@
+# Cache static assets aggressively (JS/CSS with content hashes never change)
+/_next/static/*
+  Cache-Control: public, max-age=31536000, immutable
+
+# Cache data JSON files — adjust max-age to how often your data changes
+# Currently set to 1 hour; increase if data rarely changes
+/data/*
+  Cache-Control: public, max-age=3600, must-revalidate
+
+# HTML pages — short cache so updates deploy quickly
+/*
+  Cache-Control: public, max-age=0, must-revalidate
+  X-Content-Type-Options: nosniff
+  X-Frame-Options: DENY
+  Referrer-Policy: strict-origin-when-cross-origin

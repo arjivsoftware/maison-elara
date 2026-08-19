@@ -1,0 +1,4 @@
+# Cloudflare Pages SPA fallback
+# Since Next.js static export generates real HTML files per route,
+# this only catches truly unknown paths and shows your custom 404 page.
+/404  404

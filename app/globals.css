@@ -1,0 +1,156 @@
+@import "tailwindcss";
+
+:root {
+  --color-primary: #C9A84C;         /* Antique Gold */
+  --color-primary-light: #E8D5A3;   /* Light Gold */
+  --color-primary-dark: #A07C2A;    /* Deep Gold */
+  --color-secondary: #1A1A2E;       /* Deep Midnight Navy */
+  --color-accent: #8B1A3A;          /* Bordeaux */
+  --color-surface: #FAF8F5;         /* Warm White */
+  --color-surface-2: #F2EDE8;       /* Cream */
+  --color-text: #1A1A2E;            /* Deep Navy */
+  --color-text-2: #4A4A5A;          /* Muted Navy */
+  --color-text-muted: #9A9AAA;      /* Light Muted */
+  --color-border: #E8E0D8;          /* Warm Border */
+  --color-border-strong: #C8B8A8;   /* Strong Border */
+
+  --font-heading: var(--font-cormorant), 'Cormorant Garamond', Georgia, serif;
+  --font-body: var(--font-inter), 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
+}
+
+@theme {
+  --color-primary: var(--color-primary);
+  --color-primary-light: var(--color-primary-light);
+  --color-primary-dark: var(--color-primary-dark);
+  --color-secondary: var(--color-secondary);
+  --color-accent: var(--color-accent);
+  --color-surface: var(--color-surface);
+  --color-surface-2: var(--color-surface-2);
+  --color-text: var(--color-text);
+  --color-text-2: var(--color-text-2);
+  --color-text-muted: var(--color-text-muted);
+  --color-border: var(--color-border);
+  --color-border-strong: var(--color-border-strong);
+  
+  --font-heading: var(--font-heading);
+  --font-body: var(--font-body);
+}
+
+@layer base {
+  body {
+    background-color: var(--color-surface);
+    color: var(--color-text);
+    font-family: var(--font-body);
+    line-height: 1.7;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    font-family: var(--font-heading);
+    letter-spacing: -0.01em;
+  }
+}
+
+/* Typography Scale Classes */
+.text-display {
+  font-family: var(--font-heading);
+  font-size: 56px;
+  line-height: 1.1;
+  font-weight: 700;
+  letter-spacing: -0.02em;
+}
+
+.text-h1 {
+  font-family: var(--font-heading);
+  font-size: 40px;
+  line-height: 1.2;
+  font-weight: 600;
+  letter-spacing: -0.015em;
+}
+
+.text-h2 {
+  font-family: var(--font-heading);
+  font-size: 32px;
+  line-height: 1.25;
+  font-weight: 600;
+  letter-spacing: -0.01em;
+}
+
+.text-h3 {
+  font-family: var(--font-heading);
+  font-size: 22px;
+  line-height: 1.35;
+  font-weight: 500;
+}
+
+.text-body {
+  font-family: var(--font-body);
+  font-size: 16px;
+  line-height: 1.7;
+  font-weight: 400;
+}
+
+.text-small {
+  font-family: var(--font-body);
+  font-size: 13px;
+  line-height: 1.5;
+  font-weight: 400;
+}
+
+.text-label {
+  font-family: var(--font-body);
+  font-size: 11px;
+  line-height: 1.4;
+  font-weight: 600;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+}
+
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+    transform: translateY(-4px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@keyframes marquee {
+  0% {
+    transform: translateX(0%);
+  }
+  100% {
+    transform: translateX(-50%);
+  }
+}
+
+@keyframes shimmer {
+  0% {
+    background-position: -200% 0;
+  }
+  100% {
+    background-position: 200% 0;
+  }
+}
+
+.animate-shimmer {
+  background: linear-gradient(90deg, #f2ede8 25%, #e8e0d8 50%, #f2ede8 75%);
+  background-size: 200% 100%;
+  animation: shimmer 1.8s infinite;
+}
+
+.animate-marquee {
+  display: flex;
+  width: max-content;
+  animation: marquee 40s linear infinite;
+}
+
+.animate-marquee:hover {
+  animation-play-state: paused;
+}
+
+
+
