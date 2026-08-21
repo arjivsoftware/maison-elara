@@ -1,17 +1,1 @@
-[
-  {
-    "id": "col_1787303617722",
-    "slug": "the-signature-collection",
-    "name": "The Signature Collection",
-    "description": "Our most celebrated pieces — each one a study in form, material, and intention. The bags women reach for first, every time.",
-    "image": "public/uploads/collections/the-signature-collection.webp",
-    "productIds": [
-      "prod_1787301696012"
-    ],
-    "displayStyle": "featured",
-    "featured": true,
-    "sortOrder": 0,
-    "createdAt": "2026-08-21T09:14:44.552Z",
-    "updatedAt": "2026-08-21T09:14:44.552Z"
-  }
-]
+[]
