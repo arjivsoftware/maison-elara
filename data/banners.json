@@ -1,0 +1,46 @@
+[
+  {
+    "id": "ban_1787290095016",
+    "title": "Crafted to Last a Lifetime",
+    "subtitle": "Introducing The Signature Collection — full-grain Italian leather, handmade in India",
+    "image": "public/uploads/banners/ban_1787290095016.webp",
+    "imageMobile": "public/uploads/banners/ban_1787290095016-mobile.webp",
+    "textPosition": "middle-left",
+    "textColor": "#FFFFFF",
+    "overlayOpacity": 0.3,
+    "showFrom": "",
+    "showUntil": "",
+    "redirect": {
+      "type": "url",
+      "customMessage": "",
+      "customUrl": "/collections/signature-collection",
+      "ctaLabel": "Explore the Collection"
+    },
+    "active": true,
+    "sortOrder": 0,
+    "createdAt": "2026-08-21T05:32:28.315Z",
+    "updatedAt": "2026-08-21T05:32:28.315Z"
+  },
+  {
+    "id": "ban_1787291124743",
+    "title": "The Evening Edit",
+    "subtitle": "Hand-beaded clutches and chain bags — made for moments that deserve to be remembered",
+    "image": "public/uploads/banners/ban_1787291124743.webp",
+    "imageMobile": "public/uploads/banners/ban_1787291124743-mobile.webp",
+    "textPosition": "middle-right",
+    "textColor": "#F5F0E8",
+    "overlayOpacity": 0.3,
+    "showFrom": "",
+    "showUntil": "",
+    "redirect": {
+      "type": "url",
+      "customMessage": "",
+      "customUrl": "/collections/evening-edit",
+      "ctaLabel": "Shop Evening Bags"
+    },
+    "active": true,
+    "sortOrder": 1,
+    "createdAt": "2026-08-21T05:46:24.609Z",
+    "updatedAt": "2026-08-21T05:46:24.609Z"
+  }
+]
