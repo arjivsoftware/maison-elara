@@ -8,14 +8,19 @@
     "estYear": 2024
   },
   "contact": {
-    "whatsapp": "+911212121212",
+    "whatsapp": "911212121212",
+    "whatsapp2": "",
     "phone": "+911212121212",
+    "phone2": "",
     "email": "concierge@maisonelara.com",
     "addressLine1": "Atelier Maison Elara, Design District",
+    "addressLine2": "",
     "city": "Mumbai",
     "state": "Maharashtra",
     "pincode": "400001",
-    "country": "India"
+    "country": "India",
+    "googleMapsUrl": "",
+    "googleMapsEmbed": ""
   },
   "social": {
     "instagram": "https://instagram.com/maisonelara",
@@ -38,22 +43,23 @@
     "defaultLanguage": "en",
     "enabledLanguages": [
       "en"
-    ]
+    ],
+    "catalogPdfUrl": ""
   },
   "payment": {},
   "shipping": {
     "enabled": true,
     "displayInfo": "Complimentary insured delivery across India.",
-    "codAvailable": false
+    "codAvailable": false,
+    "estimatedDays": "",
+    "serviceableAreas": ""
   },
   "announcement": {
     "enabled": true,
     "text": "Complimentary shipping & bespoke atelier gift packaging on all orders.",
     "bgColor": "#1A1A2E",
     "textColor": "#FAF8F5",
-    "closeable": true,
-    "showFrom": null,
-    "showUntil": null
+    "closeable": true
   },
   "theme": {
     "primaryColor": "#C9A84C",
