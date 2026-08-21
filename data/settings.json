@@ -1,0 +1,153 @@
+{
+  "business": {
+    "name": "Maison Elara",
+    "tagline": "Crafted to Last a Lifetime",
+    "description": "Maison Elara is a luxury bag atelier based in Surat, India. We craft world-class leather bags using Italian materials and Indian artisanship — designed to be owned for decades, not seasons.",
+    "logo": "public/uploads/site/logo.webp",
+    "favicon": "public/uploads/site/favicon.ico",
+    "estYear": 2026,
+    "gstin": ""
+  },
+  "contact": {
+    "whatsapp": "919898000001",
+    "whatsapp2": "",
+    "phone": "+91 98980 00001",
+    "phone2": "",
+    "email": "hello@maisonelara.in",
+    "addressLine1": "Atelier No. 3, Ring Road",
+    "addressLine2": "Textile Market, Varachha",
+    "city": "Surat",
+    "state": "Gujarat",
+    "pincode": "395006",
+    "country": "India",
+    "googleMapsUrl": "",
+    "googleMapsEmbed": ""
+  },
+  "social": {
+    "instagram": "https://instagram.com/maisonelara",
+    "facebook": "https://facebook.com/maisonelara",
+    "youtube": "",
+    "twitter": "",
+    "pinterest": "https://pinterest.com/maisonelara",
+    "meesho": "",
+    "amazon": "",
+    "flipkart": "",
+    "indiamart": ""
+  },
+  "whatsapp": {
+    "enabled": false,
+    "primaryNumber": "919898000001",
+    "businessHours": {
+      "enabled": true,
+      "timezone": "Asia/Kolkata",
+      "schedule": [
+        {
+          "day": "monday",
+          "open": true,
+          "from": "10:00",
+          "to": "18:00"
+        },
+        {
+          "day": "tuesday",
+          "open": true,
+          "from": "10:00",
+          "to": "18:00"
+        },
+        {
+          "day": "wednesday",
+          "open": false,
+          "from": "",
+          "to": ""
+        },
+        {
+          "day": "thursday",
+          "open": false,
+          "from": "",
+          "to": ""
+        },
+        {
+          "day": "friday",
+          "open": false,
+          "from": "",
+          "to": ""
+        },
+        {
+          "day": "saturday",
+          "open": false,
+          "from": "",
+          "to": ""
+        },
+        {
+          "day": "sunday",
+          "open": false,
+          "from": "",
+          "to": ""
+        }
+      ],
+      "awayMessage": "We are currently closed. Our team will respond first thing tomorrow morning. Thank you for your patience."
+    },
+    "defaultMessage": "Hello Maison Elara, I would like to know more about your collection.",
+    "productMessage": "Hello Maison Elara, I am interested in *{productName}*. Please share availability and details.",
+    "catalogMessage": "Hello, could you please share your complete collection lookbook?",
+    "shareTemplate": "I found this beautiful bag at Maison Elara — {productName}. Check it out: {productUrl}",
+    "catalogLink": ""
+  },
+  "store": {
+    "currency": "INR",
+    "currencySymbol": "₹",
+    "showPrices": true,
+    "showMrp": true,
+    "showDiscount": true,
+    "defaultLanguage": "en",
+    "enabledLanguages": [
+      "en"
+    ],
+    "catalogPdfUrl": ""
+  },
+  "payment": {
+    "upiId": "maisonelara@upi",
+    "upiQrImage": "public/uploads/site/upi-qr.webp",
+    "bankDetails": {
+      "bankName": "",
+      "accountName": "",
+      "accountNumber": "",
+      "ifscCode": "",
+      "accountType": "current"
+    }
+  },
+  "shipping": {
+    "enabled": true,
+    "displayInfo": "Free shipping on all orders above ₹5,000 across India",
+    "freeShippingAbove": 5000,
+    "flatRate": 50,
+    "codAvailable": false,
+    "codNote": "",
+    "estimatedDays": "3–7 business days",
+    "serviceableAreas": "All of India. International shipping to UAE, UK, USA, Canada, Singapore, Australia."
+  },
+  "announcement": {
+    "enabled": false,
+    "text": "Free shipping on all domestic orders above ₹5,000 — Shop the new Jade Slouch Hobo →",
+    "bgColor": "#1A1A2E",
+    "textColor": "#C9A84C",
+    "link": "/products/jade-slouch-hobo",
+    "closeable": true,
+    "showFrom": "",
+    "showUntil": ""
+  },
+  "theme": {
+    "primaryColor": "#C9A84C",
+    "secondaryColor": "#1A1A2E",
+    "accentColor": "#8B1A3A",
+    "fontHeading": "Cormorant Garamond",
+    "fontBody": "Inter",
+    "borderRadius": "sm",
+    "mode": "light"
+  },
+  "policies": {
+    "returnPolicy": "<p>We accept returns within 7 days of delivery. Bags must be unused, in original condition with all packaging. Sale items and custom pieces are non-returnable. Contact us on WhatsApp to initiate a return.</p>",
+    "shippingPolicy": "<p>All orders are dispatched within 2 business days. Domestic delivery: 3–7 business days. International: 7–14 business days. Free shipping above ₹5,000 domestically.</p>",
+    "privacyPolicy": "<p>Maison Elara respects your privacy. We collect your contact information solely to process your order and respond to enquiries. We do not share your information with third parties. Your WhatsApp number is used only for order communication.</p>",
+    "termsOfService": "<p>By enquiring about or purchasing from Maison Elara, you agree to our terms: all sales are final after dispatch, returns must be initiated within 7 days, and Maison Elara reserves the right to decline orders at its discretion.</p>"
+  }
+}
