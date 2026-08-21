@@ -1,1 +1,20 @@
-[]
+[
+  {
+    "id": "cat_1787301301696",
+    "slug": "tote-bags",
+    "name": "Tote Bags",
+    "description": "Structured and unstructured totes crafted for the woman who carries her world beautifully.",
+    "image": "public/uploads/categories/tote-bags.webp",
+    "accentColor": "#C9956B",
+    "showInNav": true,
+    "featured": true,
+    "sortOrder": 0,
+    "seo": {
+      "metaTitle": "Luxury Tote Bags — Maison Elara",
+      "metaDescription": "Shop our collection of handcrafted luxury tote bags in Italian leather, vegetable-tanned leather, and more. Timeless, structured, sophisticated.",
+      "keywords": []
+    },
+    "createdAt": "2026-08-21T08:35:48.642Z",
+    "updatedAt": "2026-08-21T08:35:48.642Z"
+  }
+]
