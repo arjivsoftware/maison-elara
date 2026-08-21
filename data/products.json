@@ -1,0 +1,134 @@
+[
+  {
+    "id": "prod_1787301696012",
+    "slug": "maison-noir-structured-tote",
+    "name": "Maison Noir Structured Tote",
+    "shortDescription": "Hand-stitched full-grain Italian leather with polished gold hardware",
+    "description": "<p>The Maison Noir Structured Tote is the centrepiece of the Maison Elara debut collection. Crafted from full-grain Italian vegetable-tanned leather, each bag ages with its owner — developing a rich, personal patina over time.</p><p>The interior is lined in ivory silk-twill with two slip pockets and a central zip compartment. The reinforced base protects the structure, while the polished 24K gold-plated brass hardware adds an understated elegance that defines modern luxury.</p><p>• Full-grain vegetable-tanned Italian leather<br>• 24K gold-plated brass hardware<br>• Silk-twill interior lining<br>• Magnetic snap closure with concealed zip<br>• Comes with authenticity card and dust bag</p>",
+    "price": 28500,
+    "mrp": 34000,
+    "currency": "INR",
+    "unit": "piece",
+    "moq": 1,
+    "sku": "ME-TNT-001-BLK",
+    "images": [
+      {
+        "url": "public/uploads/products/prod_1787301696012/01.webp",
+        "alt": "Maison Noir Structured Tote in black Italian leather, front view",
+        "sortOrder": 0
+      },
+      {
+        "url": "public/uploads/products/prod_1787301696012/02.webp",
+        "alt": "Maison Noir Tote showing gold hardware and magnetic closure detail",
+        "sortOrder": 1
+      },
+      {
+        "url": "public/uploads/products/prod_1787301696012/03.webp",
+        "alt": "Maison Noir Tote open view showing ivory silk interior and pockets",
+        "sortOrder": 2
+      },
+      {
+        "url": "public/uploads/products/prod_1787301696012/04.webp",
+        "alt": "Maison Noir Tote side profile showing structured silhouette",
+        "sortOrder": 3
+      }
+    ],
+    "thumbnail": "public/uploads/products/prod_1787301696012/01.webp",
+    "videoUrl": "",
+    "category": "tote-bags",
+    "collectionIds": [],
+    "tags": [
+      "tote",
+      "italian-leather",
+      "bestseller",
+      "structured",
+      "office"
+    ],
+    "attributes": [
+      {
+        "key": "Material",
+        "value": "Full-grain Italian vegetable-tanned leather"
+      },
+      {
+        "key": "Hardware",
+        "value": "24K gold-plated brass"
+      },
+      {
+        "key": "Lining",
+        "value": "Ivory silk-twill"
+      },
+      {
+        "key": "Dimensions",
+        "value": "36 × 28 × 14 cm"
+      },
+      {
+        "key": "Weight",
+        "value": "0.95 kg"
+      },
+      {
+        "key": "Strap Drop",
+        "value": "22 cm (handles), 55 cm (detachable strap)"
+      },
+      {
+        "key": "Closure",
+        "value": "Magnetic snap + inner zip"
+      },
+      {
+        "key": "Origin",
+        "value": "Crafted in India, Italian leather"
+      }
+    ],
+    "variants": [
+      {
+        "id": "var_1787302045882",
+        "label": "Colour",
+        "options": [
+          {
+            "value": "Noir Black",
+            "priceModifier": 0,
+            "available": true,
+            "colorHex": "#1A1A1A"
+          },
+          {
+            "value": "Burgundy Plum",
+            "priceModifier": 0,
+            "available": true,
+            "colorHex": "#5C1A33"
+          },
+          {
+            "value": "Champagne Beige",
+            "priceModifier": 0,
+            "available": false,
+            "colorHex": "#E8D5B7"
+          }
+        ],
+        "required": true,
+        "displayAs": "swatches"
+      }
+    ],
+    "badge": "bestseller",
+    "inStock": true,
+    "stockNote": "Only 4 left in Noir Black",
+    "featured": true,
+    "sortOrder": 0,
+    "redirect": {
+      "type": "whatsapp",
+      "customMessage": "Hello Maison Elara, I am interested in the *Maison Noir Structured Tote*. Could you please share availability and any customization options?",
+      "ctaLabel": "Enquire on WhatsApp"
+    },
+    "seo": {
+      "metaTitle": "Maison Noir Structured Tote — Full-Grain Italian Leather | M",
+      "metaDescription": "Hand-stitched structured tote in vegetable-tanned Italian leather with gold hardware. The signature piece from Maison Elara. Shop now.",
+      "keywords": [
+        "luxury tote bag",
+        "italian leather tote",
+        "structured leather bag",
+        "designer tote India",
+        "premium handbag"
+      ],
+      "ogImage": "public/uploads/products/prod_1787301696012/01.webp"
+    },
+    "createdAt": "2026-08-21T08:57:52.711Z",
+    "updatedAt": "2026-08-21T08:57:52.711Z"
+  }
+]
